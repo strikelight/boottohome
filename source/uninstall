@@ -1,0 +1,2 @@
+local script=S95_zboothome
+rm $rootfs/etc/init.d/$script
